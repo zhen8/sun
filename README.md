@@ -2,27 +2,20 @@
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
+  
   <tr>
-    <td align=center>网门 網門<br/>
-      欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate<br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=zhen8">大陆请点击进入动态网址</a><br/>
+    <td align=center>请点击进入动态网址<br/>
+     <a href="https://frla.azureedge.net/ogPipe.aspx?name=http%3A%2F%2F220%2F&tag=zhen8">动态网</a><br/>
+   <a href="http://kwmk.dulceytraviesa.cl">网 门</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
   </tr>
   <tr>
     <td align=center>
-      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=zhen8">网门头条</a><br/>
+      高速翻墙安卓Apk下载：<br/>
+      <a href="http://suo.im/4cl0at">无界安卓版</a><br/>
+      <a href="http://suo.im/1aucBN">网门安卓版</a><br/>
     </td>
   </tr>
   <tr>
